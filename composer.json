@@ -1,5 +1,5 @@
 {
-    "name": "bitbag/adyen-plugin",
+    "name": "mylittleparis/sylius-adyen-plugin",
     "type": "sylius-plugin",
     "description": "Sylius Adyen payment gateway plugin.",
     "license": "MIT",
